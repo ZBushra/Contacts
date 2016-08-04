@@ -1,0 +1,4 @@
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ContactDB.mdf;Integrated Security=True
+
+
+ContactDBConnectionString connection string name
